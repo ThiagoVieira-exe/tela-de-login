@@ -23,6 +23,7 @@ cd tela-de-login
 Abra o arquivo index.html no seu navegador preferido.
 
 🤝 Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 Espero que você goste! Se precisar de mais alguma coisa, é só avisar. 😊
